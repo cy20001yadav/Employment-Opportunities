@@ -553,6 +553,14 @@
     "position": "SDE",
     "requirements": "Html, CSS, JavaScript, C++/Java/Python, DBMS, DSA",
     "contactEmail": "recruitment@hotmail.com"
+    },
+    {
+    "id": "78",
+    "company name ": "Google",
+    "position": "Senior Software Engineer",
+    "requirements": "Cloud Computing, DSA, Testing Experience",
+    "contactEmail": "jobs@google.com"
+  },
 ] 
 }
 
